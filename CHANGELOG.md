@@ -1,5 +1,11 @@
 # @dauphaihau/demo-automation-publish
 
+## 1.0.3
+
+### Patch Changes
+
+- 0b2b785: Test publish
+
 ## 1.0.2
 
 ### Patch Changes
