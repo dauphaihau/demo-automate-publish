@@ -1,5 +1,11 @@
 # @dauphaihau/demo-automation-publish
 
+## 1.0.5
+
+### Patch Changes
+
+- ef64ae6: fix string
+
 ## 1.0.4
 
 ### Patch Changes
