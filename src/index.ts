@@ -1,4 +1,4 @@
 export function hello() {
-  return "Helloo, World!";
+  return 'Hello, World!';
 }
 
