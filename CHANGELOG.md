@@ -1,5 +1,11 @@
 # @dauphaihau/demo-automation-publish
 
+## 1.0.4
+
+### Patch Changes
+
+- eaf06af: Update text
+
 ## 1.0.3
 
 ### Patch Changes
